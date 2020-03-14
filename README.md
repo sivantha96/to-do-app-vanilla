@@ -1,4 +1,6 @@
-# Project 0
+# to-do-vanilla
+
+## A TODO app
 
 The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app is able to add and delete TODOs and track the number of total
