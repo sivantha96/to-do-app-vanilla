@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app-vanilla",
+  "version": "1.0.0",
+  "description": "To-do app created using vanilla JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivantha96/to-do-app-vanilla.git"
+  },
+  "author": "Sivantha Madusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivantha96/to-do-app-vanilla/issues"
+  },
+  "homepage": "https://github.com/sivantha96/to-do-app-vanilla#readme"
+}
